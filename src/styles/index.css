@@ -10,3 +10,10 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.jumbotron{
+    background-color: #bebebe;
+    
+    }
+.footer{
+        color: white;
+    }

@@ -3,7 +3,7 @@ import React from "react";
 const NaviBar = () => {
 	return (
 		<nav className="navbar navbar-expand-lg navbar-light bg-dark">
-			<div className="container-fluid">
+			<div className="container-fluid ms-auto">
 				<a className="navbar-brand text-white" href="#">
 					Start Bootstrap
 				</a>
@@ -17,9 +17,7 @@ const NaviBar = () => {
 					aria-label="Toggle navigation">
 					<span className="navbar-toggler-icon"></span>
 				</button>
-				<div
-					className="collapse navbar-collapse"
-					id="navbarSupportedContent">
+				<div className="   navbar  me-3" id="navbarSupportedContent">
 					<ul className="navbar-nav me-auto mb-2 mb-lg-0">
 						<li className="nav-item">
 							<a
@@ -41,7 +39,7 @@ const NaviBar = () => {
 							</a>
 						</li>
 						<li className="nav-item">
-							<a className="nav-lin text-white-50k" href="#">
+							<a className="nav-link text-white-50" href="#">
 								Contact
 							</a>
 						</li>
