@@ -21,10 +21,9 @@ const Home = () => {
 					<Cards />
 				</div>
 			</div>
-			<div className="dark pagination justify-content-center">
+			<div className="bg-dark pagination justify-content-center">
 				<Footer />
 			</div>
-			
 		</div>
 	);
 };
