@@ -4,7 +4,7 @@ const Cards = () => {
 	return (
 		<div
 			className="card my-3 m-auto lg border-light rounded-3  "
-			style={{ width: "18rem" }}>
+			style={{ width: "25 rem" }}>
 			<svg
 				class="bd-placeholder-img card-img-top"
 				width="100%"
